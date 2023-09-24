@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Analytics Digest Introduction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        #container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-        }
-        p, ul {
-            color: #666;
-        }
-        a {
-            color: #0077cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
     <div id="container">
@@ -40,10 +7,12 @@
         <p>And hey, while this started as my little project to "learn as I share and share as I learn," if you find some gems in here that add sparkle to your day or work, that's a win-win! 🎉</p>
         <p>Dive in, enjoy, and let's make analytics a beach party! 🏖️🎈</p>
 
-        <h2>Explore by Topics:</h2>
+</div>
+
+ <h2>🧭 Explore by Topics:</h2>
         <ul>
             <li><a href="/statistics">Statistics</a></li>
+            <li><a href="/customer_experience">Customer Experience</a></li>
         </ul>
-    </div>
 </body>
 </html>
